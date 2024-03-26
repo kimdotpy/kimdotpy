@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimdotpy
-- 👀 I’m interested in machine learning and AI
+- 👀 I’m interested in Machine learning and Data science
 - 🌱 I’m currently learning Ml 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
